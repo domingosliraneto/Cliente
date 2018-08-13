@@ -1,0 +1,18 @@
+<sprites>
+    <sprite x="173.814484" y="-0.105210" z="180.571381" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\여\산타_여</body>
+        <head>data\sprite\인간족\머리통\여\21_여</head>
+    </sprite>
+    <sprite x="176.360062" y="-0.041956" z="184.469894" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\클라운_남</body>
+        <head>data\sprite\인간족\머리통\남\12_남</head>
+    </sprite>
+    <sprite x="105.409195" y="-0.039969" z="227.611755" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\제철공_남</body>
+        <head>data\sprite\인간족\머리통\남\12_남</head>
+    </sprite>
+    <sprite x="105.107986" y="-0.045651" z="224.591171" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\연금술사_남</body>
+        <head>data\sprite\인간족\머리통\남\8_남</head>
+    </sprite>
+</sprites>
